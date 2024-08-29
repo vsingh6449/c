@@ -3,7 +3,7 @@
 #include <math.h>
 int main()
 {
-    int a, b, c, condition;
+    int a, b, c,condition;
     char ch = 'y';
     while (ch == 'y')
     {
